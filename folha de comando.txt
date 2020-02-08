@@ -22,3 +22,6 @@ python manage.py createsuperuser
 
 Criar app
 python manage.py startapp website
+
+Listar branchs
+git branch -v
